@@ -18,7 +18,7 @@ Increasing Difficulty: As you progress, the game's pace increases, providing a c
 Score Tracking: Keep track of your high scores and strive to beat them.
 
 
-##Screenshots
+## Screenshots
 ![image](https://github.com/thimeshaA/Tetris-Mobile-Game/assets/101446688/7dbe4209-de2f-46ec-b2a0-f1ae5adf39fd)
 ![image](https://github.com/thimeshaA/Tetris-Mobile-Game/assets/101446688/c7563f64-f1dc-4855-baff-0b1bbdec4f14)
 ![image](https://github.com/thimeshaA/Tetris-Mobile-Game/assets/101446688/f8ba5840-ef17-4098-b5aa-4b97accaf0b3)
