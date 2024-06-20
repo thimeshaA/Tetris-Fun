@@ -10,9 +10,13 @@ Get ready to test your skills in Tetris Fun! Use the arrow keys on your keyboard
 
 ## Key Features
 Classic Gameplay: Enjoy the timeless Tetris gameplay with intuitive controls.
+
 Vibrant Graphics: Dive into a visually appealing game environment.
+
 Increasing Difficulty: As you progress, the game's pace increases, providing a challenging experience.
+
 Score Tracking: Keep track of your high scores and strive to beat them.
+
 
 ##Screenshots
 ![image](https://github.com/thimeshaA/Tetris-Mobile-Game/assets/101446688/7dbe4209-de2f-46ec-b2a0-f1ae5adf39fd)
